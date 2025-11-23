@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tanayTelsinge
-- 👀 I’m interested in .. coding, learning new software related stuff.
-- 🌱 I’m currently learning ... system design, advanced java, polishing existing skills.
-- 💞️ I’m looking to collaborate on interesting software projects involving Java, MERN or MEAN stack...
+- I am a senior software engineer, and I use this repository to keep my learning notes and sample project I have worked on which help me in quick revision or day to day work.
 - 📫 How to reach me ... https://www.linkedin.com/in/tanay-t-b98891187
 
 <!---
